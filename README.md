@@ -52,6 +52,7 @@ An IoT-enabled smoke detection system developed using the MQ-135 gas sensor and 
 * *Power Supply Options:* USB or external (7V-12V recommended)
 
 ## ⚙️ Circuit Setup
+![Uploading Circuit sketch .jpg…]()
 
 ## 🖼️ Final Project Output
 
@@ -70,8 +71,8 @@ You can also find the demo video inside this repository:
 
 All code files are available inside the Smoke_Detector/ directory:
 
-* [Smoke_Detector.ino](Smoke_Detector/Smoke_Detector.ino) — Arduino sketch for uploading to the board.
-* [Smoke_Detector.txt](Smoke_Detector/Smoke_Detector.txt) — Code in text format for quick viewing.
+* [Smoke_Detector.ino](https://drive.google.com/file/d/131U_yfEay9ycjFuK19dAOEmfzUcpko63/view?usp=drivesdk) — Arduino sketch for uploading to the board.
+* [Smoke_Detector.txt](https://drive.google.com/file/d/17xIah_WiktO-mKRsTrDsVRB-79BsPH_g/view?usp=drivesdk1) — Code in text format for quick viewing.
 
 ## 📄 How to Use
 
